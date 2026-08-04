@@ -62,6 +62,7 @@ Provides a portfolio-level overview of lending performance.
 - Business loans exhibit the highest default rate.
 - Unemployed borrowers demonstrate elevated risk.
 - Very High Risk borrowers represent the largest risk segment.
+<img width="1332" height="741" alt="Screenshot 2026-08-04 215507" src="https://github.com/user-attachments/assets/dc5e6fd6-73b9-415b-bc78-8deddf2363b5" />
 
 ---
 
